@@ -49,6 +49,9 @@ Please use this application responsibly and ensure that it is used only for legi
 - [pyautogui](https://pyautogui.readthedocs.io/) - For providing the mouse automation functionality.
 - [tkinter](https://docs.python.org/3/library/tkinter.html) - For creating the graphical user interface.
 
+## Author
+HAJAR BENJAT
+
 
 
 
